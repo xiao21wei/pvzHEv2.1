@@ -1,0 +1,15 @@
+打开后勾选
+
+Remove video memory check
+
+Remove video card check
+
+然后Open file选中你游戏文件夹的植物大战僵尸游戏本体（PlantsVsZombies.exe），然后点击Patch
+
+如果提示错误（ERROR），那么可能你是选错了文件，或者已经打过了补丁
+
+打好补丁后，游戏文件夹会生成一个新的PlantsVsZombies-xxx…….exe的文件
+
+将原来的PlantsVsZombies.exe删掉，新的改名为：PlantsVsZombies.exe
+
+然后启动游戏即可
